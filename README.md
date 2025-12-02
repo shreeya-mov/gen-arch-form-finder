@@ -13,6 +13,7 @@ Process Flow: Random Shape → Evaluate → Select → Crossover → Mutate → 
 Evolution of Architectural Silhouettes
 
 ![evolution](https://github.com/user-attachments/assets/c9f9d727-f749-4e8a-a937-912f0f914194)
+
 The animation above shows the best-performing architectural silhouette in each generation.
 The genetic algorithm gradually increases stability, symmetry, and curvature smoothness,
 leading to more refined forms over time.
